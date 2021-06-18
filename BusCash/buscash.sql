@@ -1,4 +1,5 @@
 CREATE DATABASE buscash;
+USE buscash;
 
 CREATE TABLE usuarios (
 	id INTEGER NOT NULL auto_increment,
